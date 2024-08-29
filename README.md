@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @diazzza
 - 👀 I’m interested in graphic design, digital art, and web development.
+- 💞️ I’m looking to collaborate on creative design projects and front-end web development.
 - 😄 Pronouns:She/Her
 
 <!---
